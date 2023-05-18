@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683775522 source:c:\users\acer\onedrive\desktop\sample\program_parallel_2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<omp.h>
+
